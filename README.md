@@ -1,7 +1,7 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name:
+Student Name:Bereketeab  WOldegiorgis
 
-Track Name: Feature updated
+Track Name: Devops
 
 ![MSD Logo](assets/msd-6th-batch-logo.png "MSD 6th Batch Logo")
